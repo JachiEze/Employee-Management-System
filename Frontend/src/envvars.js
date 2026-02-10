@@ -1,1 +1,0 @@
-export let apiURL = process.env.REACT_APP_METAHR_API_URL;
